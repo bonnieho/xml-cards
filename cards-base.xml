@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+
+<!-- This is an initial attempt at the base xml data structure for a set of quiz-related cards 
+
+File: cards-base.xml
+
+Author: Bonnie L. Hoffman  
+
+Date Inititalized: 31 December 2018
+
+-->
+
+<!DOCTYPE cards-base SYSTEM "cards-base.dtd">
+
+<?xml-stylesheet type="text/xsl" href="cards.xsd" ?>
+
+<cards-base>
+    <card></card>
+    <card></card>
+    <card></card>
+</cards-base>
+

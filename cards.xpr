@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="15.2">
+    <meta>
+        <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="newProject.xpr">
+        <file name="cards-base.css"/>
+        <file name="cards-base.dtd"/>
+        <file name="cards-base.xml"/>
+        <file name="cards.xsd"/>
+        <file name="readme.md"/>
+    </projectTree>
+</project>

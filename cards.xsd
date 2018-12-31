@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- 
+    
+This is an initial attempt at the base xml data structure for a set of quiz-related cards.
+
+This xml stylesheet should transform cards from xml format into PDF (or idd - InDesign) file format(s).
+
+File: cards.xsd
+
+Author: Bonnie L. Hoffman  
+
+Date Inititalized: 31 December 2018
+
+Supporting files:   cards-base.xml, cards-base.dtd, cards-base.css
+
+-->

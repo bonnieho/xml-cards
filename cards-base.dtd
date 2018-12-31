@@ -1,0 +1,17 @@
+<!-- 
+
+I've created a DTD for this project (as opposed to a schema) given that this is more of text-based set of data (as opposed to data-intensive).
+
+File: cards-base.dtd
+
+Author: Bonnie L. Hoffman  
+
+Date Inititalized: 31 December 2018
+
+Supporting file:   cards-base.xml
+
+-->
+
+<!ELEMENT cards-base (card+)>
+
+<!ELEMENT card (#PCDATA)>
