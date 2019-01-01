@@ -8,6 +8,8 @@ Author: Bonnie L. Hoffman
 
 Date Inititalized: 31 December 2018
 
+Supporting files:   cards.xsl, cards-base.dtd, cards-base.css
+
 -->
 
 <!DOCTYPE cards-base SYSTEM "cards-base.dtd">

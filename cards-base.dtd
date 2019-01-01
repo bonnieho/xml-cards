@@ -14,14 +14,14 @@ Supporting file:   cards-base.xml
 
 still needed:
 
-term
+- term
 
-definition
+- definition
 
 optional:
 
-description
-photo (or thumbnail)
+- description
+- photo (or thumbnail)
 
 -->
 
