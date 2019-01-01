@@ -4,8 +4,9 @@
 This is an initial attempt at the base xml data structure for a set of quiz-related cards.
 
 This xml stylesheet should transform cards from xml format into PDF (or idd - InDesign) file format(s).
+(or not - on second thought, maybe it's better to format the data in the clusters to import into InDesign. To do that, it might also be necessary to run a script to get the correct answer on the back of the flash card to line up correctly on the printed sheet with its corresponding question/term.)
 
-File: cards.xsd
+File: cards.xsl
 
 Author: Bonnie L. Hoffman  
 

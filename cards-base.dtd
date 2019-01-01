@@ -10,6 +10,19 @@ Date Inititalized: 31 December 2018
 
 Supporting file:   cards-base.xml
 
+==========
+
+still needed:
+
+term
+
+definition
+
+optional:
+
+description
+photo (or thumbnail)
+
 -->
 
 <!ELEMENT cards-base (card+)>
