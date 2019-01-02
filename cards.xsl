@@ -15,4 +15,11 @@ Date Inititalized: 31 December 2018
 Supporting files:   cards-base.xml, cards-base.dtd, cards-base.css
 
 
+======= NOTES ========
+
+Standard US index card size is 3" x 5".
+
+For data sets that contain less text, maybe explore some options for smaller cards that can still be cut out of an 8.5" x 11" sheet with margins.
+
+Also, what about some method of identification (color stripe? certain cuts in corners?) to distinguish different sets of cards?
 -->

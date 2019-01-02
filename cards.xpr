@@ -4,11 +4,11 @@
         <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
         <options/>
     </meta>
-    <projectTree name="newProject.xpr">
+    <projectTree name="cards.xpr">
         <file name="cards-base.css"/>
         <file name="cards-base.dtd"/>
         <file name="cards-base.xml"/>
-        <file name="cards.xsd"/>
+        <file name="cards.xsl"/>
         <file name="readme.md"/>
     </projectTree>
 </project>

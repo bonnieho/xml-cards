@@ -10,6 +10,11 @@ Date Inititalized: 31 December 2018
 
 Supporting files:   cards.xsl, cards-base.dtd, cards-base.css
 
+
+======= NOTES ========
+
+Do I want to have at least one unique identifier with each card (to avoid duplication and maybe track if randoimizing as in an online quiz)?
+
 -->
 
 <!DOCTYPE cards-base SYSTEM "cards-base.dtd">
