@@ -26,15 +26,15 @@ Do I want to have at least one unique identifier with each card (to avoid duplic
 <cards-base>
     <card>
         <term></term>
-        <description></description>
+        <definition></definition>
     </card>
     <card>
         <term></term>
-        <description></description>
+        <definition></definition>
     </card>
     <card>
         <term></term>
-        <description></description>
+        <definition></definition>
     </card>
 </cards-base>
 

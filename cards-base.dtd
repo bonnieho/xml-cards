@@ -27,8 +27,12 @@ optional:
 
 <!ELEMENT cards-base (card+)>
 
-<!ELEMENT card (#PCDATA)>
+<!ELEMENT card (term, definition, img?)>
 
 <!ELEMENT term (#PCDATA)>
 
-<!ELEMENT decription (#PCDATA)>
+<!ELEMENT definition (#PCDATA)>
+
+<!ELEMENT img EMPTY>
+
+<!ATTLIST img src CDATA #REQUIRED>
