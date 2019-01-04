@@ -28,3 +28,7 @@ optional:
 <!ELEMENT cards-base (card+)>
 
 <!ELEMENT card (#PCDATA)>
+
+<!ELEMENT term (#PCDATA)>
+
+<!ELEMENT decription (#PCDATA)>
