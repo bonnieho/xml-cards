@@ -27,11 +27,13 @@ optional:
 
 <!ELEMENT cards-base (card+)>
 
-<!ELEMENT card (term, definition, img?)>
+<!ELEMENT card (term, definition, description?, img?)>
 
 <!ELEMENT term (#PCDATA)>
 
 <!ELEMENT definition (#PCDATA)>
+
+<!ELEMENT description (#PCDATA)>
 
 <!ELEMENT img EMPTY>
 
