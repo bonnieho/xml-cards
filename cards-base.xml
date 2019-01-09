@@ -17,6 +17,8 @@ Do I want to have at least one unique identifier with each card (to avoid duplic
 
 This is simply a basic version (four notecards, front and back, per sheet of letter-sized paper?)
 
+Eventually, adding more elements to spin off to an xml file that can store multiple choice options for quizzes.
+
 -->
 
 <!DOCTYPE cards-base SYSTEM "cards-base.dtd">
