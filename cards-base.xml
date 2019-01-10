@@ -10,6 +10,7 @@ Date Inititalized: 31 December 2018
 
 Supporting files:   cards.xsl, cards-base.dtd, cards-base.css
 
+THEME: UNIX COMMAND LINE TERMS
 
 ======= NOTES ========
 
@@ -27,20 +28,20 @@ Eventually, adding more elements to spin off to an xml file that can store multi
 
 <cards-base>
     <card>
-        <term></term>
-        <definition></definition>
+        <term>uname</term>
+        <definition>Print system information</definition>
     </card>
     <card>
-        <term></term>
-        <definition></definition>
+        <term>traceroute</term>
+        <definition>Trace route to host</definition>
     </card>
     <card>
-        <term></term>
-        <definition></definition>
+        <term>touch</term>
+        <definition>Change file timestamps</definition>
     </card>
     <card>
-        <term></term>
-        <definition></definition>
+        <term>tail</term>
+        <definition>Outut the last part of files</definition>
     </card>
 </cards-base>
 
