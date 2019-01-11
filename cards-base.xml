@@ -41,7 +41,7 @@ Eventually, adding more elements to spin off to an xml file that can store multi
     </card>
     <card>
         <term>tail</term>
-        <definition>Outut the last part of files</definition>
+        <definition>Output the last part of files</definition>
     </card>
 </cards-base>
 
