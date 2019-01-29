@@ -12,7 +12,7 @@ Author: Bonnie L. Hoffman
 
 Date Inititalized: 31 December 2018
 
-Supporting files:   cards-base.xml, cards-base.dtd, cards-base.css
+Supporting files:   cards-base.xml, cards-base.dtd, cards-base.css (possibly also InDesign template files)
 
 
 ======= NOTES ========
