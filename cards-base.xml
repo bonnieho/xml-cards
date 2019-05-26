@@ -24,7 +24,7 @@ Eventually, adding more elements to spin off to an xml file that can store multi
 
 <!DOCTYPE cards-base SYSTEM "cards-base.dtd">
 
-<?xml-stylesheet type="text/xsl" href="cards.xsd" ?>
+<?xml-stylesheet type="text/xsl" href="cards-quiz.xsl" ?>
 
 <cards-base>
     <card>

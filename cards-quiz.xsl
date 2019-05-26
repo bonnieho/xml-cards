@@ -41,9 +41,7 @@ Supporting files:   cards-base.xml, cards-base.dtd, cards-base.css
                     
                 </header>
                 <section>
-                    <p><xsl:value-of select="card-base/card/term" /></p>
-                    <p><xsl:value-of select="card-base/card/definition" /></p>
-
+                    <xsl:apply-templates select="cards-base" />
                 </section>
                 
                 <section>
@@ -59,12 +57,12 @@ Supporting files:   cards-base.xml, cards-base.dtd, cards-base.css
         
     </xsl:template>
     
-    <!-- ?? TEMPLATE -->
-    <!-- <xsl:template match="">
-        
-
-    </xsl:template> -->
-    <!-- END ?? TEMPLATE -->
+    <!-- cards-base TEMPLATE -->
+    <xsl:template match="cards-base">
+            <p><xsl:value-of select="card/term" /></p>
+            <p><xsl:value-of select="card/definition" /></p>
+    </xsl:template>
+    <!-- END cards-base TEMPLATE -->
     
     
 </xsl:stylesheet>
