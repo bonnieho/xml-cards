@@ -36,15 +36,13 @@ Supporting files:   cards-base.xml, cards-base.dtd, cards-base.css
             
             <body>
                 <header>
-                    <section>
-   
-                    </section>
-                    
                     <h1></h1>
                     <h2></h2>
                     
                 </header>
                 <section>
+                    <p><xsl:value-of select="card/term" /></p>
+                    <p><xsl:value-of select="card/definition" /></p>
 
                 </section>
                 
@@ -62,10 +60,10 @@ Supporting files:   cards-base.xml, cards-base.dtd, cards-base.css
     </xsl:template>
     
     <!-- ?? TEMPLATE -->
-    <xsl:template match="">
+    <!-- <xsl:template match="">
         
 
-    </xsl:template>
+    </xsl:template> -->
     <!-- END ?? TEMPLATE -->
     
     
