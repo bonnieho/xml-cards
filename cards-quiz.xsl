@@ -22,7 +22,44 @@ Supporting files:   cards-base.xml, cards-base.dtd, cards-base.css
     exclude-result-prefixes="xs"
     version="2.0">
     
+    <xsl:output method="html"
+        doctype-system="about:legacy-compat"
+        encoding="UTF-8"
+        indent="yes" />
     
+    <xsl:template match="/">
+        <html>
+            <head>
+                <title>XML-based Quiz</title>
+                <link href="cards-base.css" rel="stylesheet" type="text/css" />
+            </head>
+            
+            <body>
+                <header>
+                    <section>
+   
+                    </section>
+                    
+                    <h1></h1>
+                    <h2></h2>
+                    
+                </header>
+                <section>
+
+                </section>
+                
+                <section>
+    
+                </section>
+                
+                <section>
+
+                </section>
+                
+            </body>
+        </html>
+        
+    </xsl:template>
     
     
 </xsl:stylesheet>
