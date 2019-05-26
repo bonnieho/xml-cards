@@ -41,8 +41,8 @@ Supporting files:   cards-base.xml, cards-base.dtd, cards-base.css
                     
                 </header>
                 <section>
-                    <p><xsl:value-of select="card/term" /></p>
-                    <p><xsl:value-of select="card/definition" /></p>
+                    <p><xsl:value-of select="card-base/card/term" /></p>
+                    <p><xsl:value-of select="card-base/card/definition" /></p>
 
                 </section>
                 
