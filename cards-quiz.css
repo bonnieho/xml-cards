@@ -132,9 +132,14 @@ body {
   font: 1.75em/1.5em sans-serif;
 }
 
+#main {
+   width: 80%;
+   margin: auto;
+}
 
 div.crd {
-    margin: 10rem;
+    width: 50%;
+    margin: 10rem auto;
     border: solid 1px navy;
 }
 

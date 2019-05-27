@@ -41,7 +41,10 @@ Supporting files:   cards-base.xml, cards-base.dtd, cards-base.css
                     
                 </header>
                 <section>
-                    <xsl:apply-templates select="cards-base/card" />
+                    <div id="main">
+                        <xsl:apply-templates select="cards-base/card" />
+                    </div>
+                    
                 </section>
                 
                 <section>
