@@ -135,6 +135,7 @@ body {
 
 div.crd {
     margin: 10rem;
+    border: solid 1px navy;
 }
 
 .term {
