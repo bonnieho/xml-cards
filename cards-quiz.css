@@ -124,7 +124,10 @@ html {
 
 body {
   height: 100%;
+  min-height: 100%;
   text-rendering: optimizeLegibility;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 18px;
   line-height: 1.5;
   font: 1.75em/1.5em sans-serif;
 }
@@ -135,9 +138,11 @@ div.crd {
 }
 
 .term {
-    
+    font-weight: bold;
+    padding: 1rem;
 }
 
 .def {
-    
+    font-style: italic;
+    padding: 1rem;   
 }
