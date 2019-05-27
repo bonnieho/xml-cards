@@ -31,7 +31,7 @@ Supporting files:   cards-base.xml, cards-base.dtd, cards-base.css
         <html>
             <head>
                 <title>XML-based Quiz</title>
-                <link href="cards-base.css" rel="stylesheet" type="text/css" />
+                <link href="cards-quiz.css" rel="stylesheet" type="text/css" />
             </head>
             
             <body>
@@ -41,7 +41,7 @@ Supporting files:   cards-base.xml, cards-base.dtd, cards-base.css
                     
                 </header>
                 <section>
-                    <xsl:apply-templates select="cards-base" />
+                    <xsl:apply-templates select="cards-base/card" />
                 </section>
                 
                 <section>
@@ -58,9 +58,11 @@ Supporting files:   cards-base.xml, cards-base.dtd, cards-base.css
     </xsl:template>
     
     <!-- cards-base TEMPLATE -->
-    <xsl:template match="cards-base">
-            <p><xsl:value-of select="card/term" /></p>
-            <p><xsl:value-of select="card/definition" /></p>
+    <xsl:template match="card">
+        <div class="crd">
+            <p class="term"><xsl:value-of select="term" /></p>
+            <p class="def"><xsl:value-of select="definition" /></p>
+        </div>
     </xsl:template>
     <!-- END cards-base TEMPLATE -->
     
