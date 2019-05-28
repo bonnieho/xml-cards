@@ -9,10 +9,16 @@ Author: Bonnie L. Hoffman
 
 Date Inititalized: 25 May 2019
 
-Supporting files:   cards-base.xml, cards-base.dtd, cards-base.css 
+Supporting files:   cards-base.xml, cards-base.dtd, cards-quiz.css 
 
 
 ======= NOTES ========
+
+MVPs:
+
+I want to make this interactive in several different ways:
+
+- using Javascript (presumeably)
 
 
 
