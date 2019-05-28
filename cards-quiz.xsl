@@ -18,7 +18,7 @@ MVPs:
 
 I want to make this interactive in several different ways:
 
-- using Javascript (presumeably)
+- using Javascript (presumeably), I want to show the term (like a flash card) and then click to display the term.
 
 
 
