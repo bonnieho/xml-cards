@@ -132,6 +132,12 @@ body {
   font: 1.75em/1.5em sans-serif;
 }
 
+header {
+   text-align: center;
+   width: 80%;
+   margin: auto;
+}
+
 #main {
    width: 80%;
    margin: auto;

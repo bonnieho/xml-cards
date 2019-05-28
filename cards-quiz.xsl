@@ -38,7 +38,6 @@ Supporting files:   cards-base.xml, cards-base.dtd, cards-base.css
                 <header>
                     <h1>XML-based Quiz</h1>
                     <h2>(create an attribute for the root that describes the content of the particular xml file)</h2>
-                    
                 </header>
                 <section>
                     <div id="main">
