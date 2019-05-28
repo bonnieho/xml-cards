@@ -27,6 +27,7 @@ optional:
 <!ELEMENT card (term, definition, description?, img?)>
 
 <!ELEMENT term (#PCDATA)>
+<!ATTLIST term option CDATA #IMPLIED>
 
 <!ELEMENT definition (#PCDATA)>
 
