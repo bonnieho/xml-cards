@@ -23,6 +23,7 @@ optional:
 -->
 
 <!ELEMENT cards-base (card+)>
+<!ATTLIST cards-base type CDATA #REQUIRED><!-- look up how to list the only possible options -->
 
 <!ELEMENT card (term, definition, description?, img?)>
 
