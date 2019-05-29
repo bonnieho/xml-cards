@@ -22,6 +22,8 @@ I want to make this interactive in several different ways:
 
 - even better, can this interaction be done using only CSS??
 
+- ideally, the display of these term/definition pairs should also be randomized.
+
 
 
 -->
