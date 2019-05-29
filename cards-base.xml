@@ -38,6 +38,7 @@ Eventually, adding more elements to spin off to an xml file that can store multi
     <card>
         <term option="none">touch</term>
         <definition>Create a new, empty file</definition>
+        <!-- the following def is actually for the term WITH a specific switch -->
         <!-- <definition>Change file timestamps</definition> -->
     </card>
     <card>
