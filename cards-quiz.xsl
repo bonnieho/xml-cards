@@ -24,7 +24,7 @@ I want to make this interactive in several different ways:
 
 - ideally, the display of these term/definition pairs should also be randomized.
 
-
+- eventually, maybe provide multiple choice option?
 
 -->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
