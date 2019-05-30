@@ -136,15 +136,15 @@ header {
    text-align: center;
    width: 60%;
    margin: 2rem auto 0 auto;
-   padding: 1rem;
+   padding: 4rem 0 0 0;
    background-color: #9cf;
 }
 
 #main {
    width: 60%;
    margin: auto;
-   /* margin-bottom: 2rem; */
-   /* padding: 0.4rem; */
+   margin-bottom: 4rem;
+   padding: 1rem 0;
    background-color: #9cf;
 }
 
