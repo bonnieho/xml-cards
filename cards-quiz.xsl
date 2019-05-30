@@ -48,7 +48,8 @@ I want to make this interactive in several different ways:
             <body>
                 <header>
                     <h1>XML-based Quiz</h1>
-                    <h2>(create an attribute for the root that describes the content of the particular xml file)</h2>
+                    <!-- <h2>(create an attribute for the root that describes the content of the particular xml file)</h2> -->
+                    <h2><xsl:value-of select="cards-base/@desc" /></h2>
                 </header>
                 <section>
                     <div id="main">

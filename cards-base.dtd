@@ -24,6 +24,7 @@ optional:
 
 <!ELEMENT cards-base (card+)>
 <!ATTLIST cards-base type CDATA #REQUIRED><!-- look up how to list the only possible options -->
+<!ATTLIST cards-base desc CDATA #REQUIRED>
 
 <!ELEMENT card (term, definition, description?, img?)>
 
