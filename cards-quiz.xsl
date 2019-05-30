@@ -19,10 +19,11 @@ MVPs:
 I want to make this interactive in several different ways:
 
 - using Javascript (presumeably), I want to show the term (like a flash card) and then click to display the definition.
+ 1st level to accomplish: just what's described above.
 
 - even better, can this interaction be done using only CSS??
 
-- ideally, the display of these term/definition pairs should also be randomized.
+- (2nd level) ideally, the display of these term/definition pairs should also be randomized.
 
 - eventually, maybe provide multiple choice option?
 
