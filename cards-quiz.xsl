@@ -27,6 +27,8 @@ I want to make this interactive in several different ways:
 
 - eventually, maybe provide multiple choice option?
 
+Low-hanging fruit MVP: format h2 in javascript to initial caps and replace underscore with nbsp
+
 -->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
