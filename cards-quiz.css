@@ -134,19 +134,25 @@ body {
 
 header {
    text-align: center;
-   width: 80%;
-   margin: auto;
+   width: 60%;
+   margin: 2rem auto 0 auto;
+   padding: 1rem;
+   background-color: #9cf;
 }
 
 #main {
-   width: 80%;
+   width: 60%;
    margin: auto;
+   /* margin-bottom: 2rem; */
+   /* padding: 0.4rem; */
+   background-color: #9cf;
 }
 
 div.crd {
     width: 50%;
     margin: 8rem auto;
-    border: solid 1px navy;
+    border: solid 1px #036;
+    background-color: #fff;
 }
 
 .term {
