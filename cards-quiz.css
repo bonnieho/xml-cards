@@ -165,6 +165,10 @@ div.crd {
     padding: 1rem;
 }
 
+option {
+    font-style: italic;
+}
+
 .def {
     font-style: italic;
     padding: 1rem;   

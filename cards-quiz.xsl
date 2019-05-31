@@ -79,7 +79,7 @@ Low-hanging fruit MVP: format h2 in javascript to initial caps and replace under
             <p class="term">
                 <xsl:value-of select="term" />&#160;
                 <xsl:choose>
-                    <xsl:when test="@option = 'none'">
+                    <xsl:when test="@option = none">
                     </xsl:when>
                     <xsl:otherwise>
                        <xsl:value-of select="term/@option" />
