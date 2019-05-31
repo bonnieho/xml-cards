@@ -78,13 +78,15 @@ Low-hanging fruit MVP: format h2 in javascript to initial caps and replace under
         <div class="crd">
             <p class="term">
                 <xsl:value-of select="term" />&#160;
-                <xsl:choose>
-                    <xsl:when test="@option = none">
-                    </xsl:when>
-                    <xsl:otherwise>
-                       <xsl:value-of select="term/@option" />
-                    </xsl:otherwise>
-                </xsl:choose>
+                <span class="option">
+                    <xsl:choose>
+                        <xsl:when test="@option = none">
+                        </xsl:when>
+                        <xsl:otherwise>
+                           <xsl:value-of select="term/@option" />
+                        </xsl:otherwise>
+                    </xsl:choose>
+                </span>
             </p>
             <p class="def"><xsl:value-of select="definition" /></p>
         </div>
