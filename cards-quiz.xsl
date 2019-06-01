@@ -45,6 +45,7 @@ Low-hanging fruit MVP: format h2 in javascript to initial caps and replace under
             <head>
                 <title>XML-based Quiz</title>
                 <link href="cards-quiz.css" rel="stylesheet" type="text/css" />
+                <link href="cards-quiz.js" type="javascript" />
             </head>
             
             <body>
