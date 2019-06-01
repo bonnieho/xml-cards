@@ -20,6 +20,7 @@ I want to make this interactive in several different ways:
 
 - using Javascript (presumeably), I want to show the term (like a flash card) and then click to display the definition.
  1st level to accomplish: just what's described above.
+ (now trying this with jQuery)
 
 - even better, can this interaction be done using only CSS??
 
