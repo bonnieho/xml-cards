@@ -170,6 +170,7 @@ div.crd {
 }
 
 .def {
+    display: none;
     font-style: italic;
     padding: 1rem;   
 }
