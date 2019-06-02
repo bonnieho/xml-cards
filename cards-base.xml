@@ -56,5 +56,9 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <term>pwd</term>
         <definition>Print working directory</definition>
     </card>
+    <card>
+        <term option="{filename}">more</term>
+        <definition>View a file one screen at a time</definition>
+    </card>
 </cards-base>
 
