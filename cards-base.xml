@@ -48,5 +48,9 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <term>tail</term>
         <definition>Output the last part of files</definition>
     </card>
+    <card>
+        <term>mkdir</term>
+        <definition>Make a new directory</definition>
+    </card>
 </cards-base>
 
