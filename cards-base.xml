@@ -64,5 +64,9 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <term>df</term>
         <definition>Check system disk capacity</definition>
     </card>
+    <card>
+        <term option="-v">quota</term>
+        <definition>Check your total disk usage</definition>
+    </card>
 </cards-base>
 
