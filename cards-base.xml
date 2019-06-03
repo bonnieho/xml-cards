@@ -80,5 +80,9 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <term option="-r{dirname}">rm</term>
         <definition>Removes an empty directory</definition>
     </card>
+    <card>
+        <term option="{file1}{file2}">diff</term>
+        <definition>display file differences</definition>
+    </card>
 </cards-base>
 
