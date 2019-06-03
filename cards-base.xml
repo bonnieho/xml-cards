@@ -92,5 +92,9 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <term option="'{pattern}'{file}">grep</term>
         <definition>Find a regular expression in a file</definition>
     </card>
+    <card>
+        <term option="{file}">wc</term>
+        <definition>Count words in a file</definition>
+    </card>
 </cards-base>
 
