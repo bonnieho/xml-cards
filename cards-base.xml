@@ -72,5 +72,9 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <term option="{oldfile}{newfile}">mv</term>
         <definition>Move a file, which is the same as renaming</definition>
     </card>
+    <card>
+        <term option="{dirname}">rmdir</term>
+        <definition>Removes an empty directory</definition>
+    </card>
 </cards-base>
 
