@@ -116,5 +116,9 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <term option="{yourusername}">last</term>
         <definition>Lists your recent logins</definition>
     </card>
+    <card>
+        <term>cal</term>
+        <definition>Shows calendar of current month</definition>
+    </card>
 </cards-base>
 
