@@ -120,5 +120,9 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <term>cal</term>
         <definition>Shows calendar of current month</definition>
     </card>
+    <card>
+        <term>weblint</term>
+        <definition>Checks the syntax of html files</definition>
+    </card>
 </cards-base>
 
