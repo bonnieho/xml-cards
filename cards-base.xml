@@ -128,5 +128,9 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <term>who</term>
         <definition>Displays who is logged in and where they are coming from</definition>
     </card>
+    <card>
+        <term>whoami</term>
+        <definition>Displays the current username that you are logged in with</definition>
+    </card>
 </cards-base>
 
