@@ -136,5 +136,9 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <term>passwd</term>
         <definition>Lets you change your password</definition>
     </card>
+    <card>
+        <term>date</term>
+        <definition>Displays current date and time</definition>
+    </card>
 </cards-base>
 
