@@ -155,7 +155,7 @@ Eventually, adding more elements to spin off to an xml file that can store multi
     </card>
     <card>
         <term option="{filename}">tail</term>
-        <definition>Displays content of given file</definition>
+        <definition>Displays the last 10 lines of given file</definition>
     </card>
     <card>
         <term option="{website}">lynx</term>
