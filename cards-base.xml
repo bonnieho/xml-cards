@@ -144,5 +144,30 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <term option="{website}">lynx</term>
         <definition>Browse the web (text-only) from a terminal</definition>
     </card>
+    
+    <card>
+        <term option="{website}">lynx</term>
+        <definition>Browse the web (text-only) from a terminal</definition>
+    </card>
+    <card>
+        <term option="{website}">lynx</term>
+        <definition>Browse the web (text-only) from a terminal</definition>
+    </card>
+    <card>
+        <term option="{website}">lynx</term>
+        <definition>Browse the web (text-only) from a terminal</definition>
+    </card>
+    <card>
+        <term option="{website}">lynx</term>
+        <definition>Browse the web (text-only) from a terminal</definition>
+    </card>
+    <card>
+        <term option="{website}">lynx</term>
+        <definition>Browse the web (text-only) from a terminal</definition>
+    </card>
+    <card>
+        <term option="{website}">lynx</term>
+        <definition>Browse the web (text-only) from a terminal</definition>
+    </card>
 </cards-base>
 
