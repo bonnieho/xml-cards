@@ -164,21 +164,21 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <term>find</term>
         <definition>Find files with specific properties that match patterns</definition>
     </card>
-<card>
+    <card>
         <term></term>
         <definition></definition>
     </card>
-<card>  
+    <card>  
         <term></term>
         <definition></definition>
     </card>
-<card>  
+    <card>  
         <term></term>
         <definition></definition>
     </card>
-<card>  
+    <card>  
         <term></term>
-        <definition>Find files with specific properties that match patterns</definition>
+        <definition></definition>
     </card>
 
 
