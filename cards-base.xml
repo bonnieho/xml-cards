@@ -173,8 +173,8 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <definition>Locate a command</definition>
     </card>
     <card>  
-        <term></term>
-        <definition></definition>
+        <term option"-i{file1}{file2}">cp</term>
+        <definition>Copies contents of file1 into file2 and -i option gives interactive prompt</definition>
     </card>
     <card>  
         <term></term>
