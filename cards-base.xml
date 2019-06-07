@@ -180,6 +180,10 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <term>/etc/profile</term>
         <definition>A global configuration script that applies to all users</definition>
     </card>
+    <card>
+        <term>~/.bash_profile</term>
+	<definition>A user's personal startup file that can be used to override settings in global config script</definition>
+    <card>
 
 
 </cards-base>
