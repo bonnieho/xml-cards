@@ -177,8 +177,8 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <definition>Copies contents of file1 into file2 and -i option gives interactive prompt</definition>
     </card>
     <card>  
-        <term></term>
-        <definition></definition>
+        <term>/etc/profile</term>
+        <definition>A global configuration script that applies to all users</definition>
     </card>
 
 
