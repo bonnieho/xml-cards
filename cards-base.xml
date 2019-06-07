@@ -177,7 +177,7 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <definition></definition>
     </card>
 <card>  
-        <term>find</term>
+        <term></term>
         <definition>Find files with specific properties that match patterns</definition>
     </card>
 
