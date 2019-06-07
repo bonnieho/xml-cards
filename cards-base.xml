@@ -165,8 +165,8 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <definition>Find files with specific properties that match patterns</definition>
     </card>
     <card>
-        <term></term>
-        <definition></definition>
+        <term>type</term>
+        <definition>Display information about command type</definition>
     </card>
     <card>  
         <term></term>
