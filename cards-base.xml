@@ -189,8 +189,8 @@ Eventually, adding more elements to spin off to an xml file that can store multi
 	<definition>When ~/.bash_profile is not found, bash attempts to read this script</definition>
     </card>
     <card>
-        <term></term>
-        <definition></definition>
+        <term>~/.profile</term>
+        <definition>When neither ~/.bash_profile nor ~/.bash_login are found, bash reads this file (default in Debian-based distros like Ubuntu)</definition>
     </card>
     <card>
         <term></term>
