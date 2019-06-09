@@ -185,8 +185,8 @@ Eventually, adding more elements to spin off to an xml file that can store multi
 	<definition>A user's personal startup file that can be used to override settings in global config script</definition>
     <card>
     <card>
-	<term></term>
-	<definition></definition>
+	<term>~/.bash_login</term>
+	<definition>When ~/.bash_profile is not found, bash attempts to read this script</definition>
     </card>
     <card>
         <term></term>
