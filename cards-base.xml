@@ -232,5 +232,9 @@ Eventually, adding more elements to spin off to an xml file that can store multi
 	<term></term>
 	<definition></definition>
     </card>
+    <card>
+	<term></term>
+	<definition></definition>
+    </card>
 </cards-base>
 
