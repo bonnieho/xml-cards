@@ -196,6 +196,10 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <term option="name=value">alias</term>
         <definition>Create a new command that is an abbreviation of the original one</definition>
     </card>
+    <card>
+	<term></term>
+	<definition></definition>
+    </card>
 
 
 
