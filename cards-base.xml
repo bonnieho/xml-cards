@@ -205,11 +205,11 @@ Eventually, adding more elements to spin off to an xml file that can store multi
 	   <definition></definition>
     </card>
     <card>
-	   <term></term>
+	   <term>ifconfig</term>
 	   <definition></definition>
     </card>
     <card>
-	   <term></term>
+	   <term>init</term>
 	   <definition></definition>
     </card>
     <card>
