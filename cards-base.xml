@@ -197,11 +197,11 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <definition>Create a new command that is an abbreviation of the original one</definition>
     </card>
     <card>
-	   <term></term>
+	   <term>mount</term>
 	   <definition></definition>
     </card>
     <card>
-	   <term></term>
+	   <term>ping</term>
 	   <definition></definition>
     </card>
     <card>
