@@ -182,11 +182,11 @@ Eventually, adding more elements to spin off to an xml file that can store multi
     </card>
     <card>
         <term>~/.bash_profile</term>
-	<definition>A user's personal startup file that can be used to override settings in global config script</definition>
+	   <definition>A user's personal startup file that can be used to override settings in global config script</definition>
+    </card>
     <card>
-    <card>
-	<term>~/.bash_login</term>
-	<definition>When ~/.bash_profile is not found, bash attempts to read this script</definition>
+	   <term>~/.bash_login</term>
+	   <definition>When ~/.bash_profile is not found, bash attempts to read this script</definition>
     </card>
     <card>
         <term>~/.profile</term>
@@ -198,11 +198,11 @@ Eventually, adding more elements to spin off to an xml file that can store multi
     </card>
     <card>
 	   <term>mount</term>
-	   <definition></definition>
+	   <definition>Attaches a file system to the file tree</definition>
     </card>
     <card>
 	   <term>ping</term>
-	   <definition></definition>
+        <definition>Send ICMP ECHO_REQUEST packets to network hosts</definition>
     </card>
     <card>
 	   <term>ifconfig</term>
