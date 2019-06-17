@@ -210,7 +210,7 @@ Eventually, adding more elements to spin off to an xml file that can store multi
     </card>
     <card>
 	   <term>init</term>
-	   <definition></definition>
+        <definition>A daemon process that starts during system boot and continues running until the system is shut down</definition>
     </card>
     <card>
 	   <term>shells</term>
