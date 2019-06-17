@@ -217,11 +217,11 @@ Eventually, adding more elements to spin off to an xml file that can store multi
 	   <definition>Opens cron table for editing</definition>
     </card>
     <card>
-	   <term></term>
+	   <term>hosts</term>
 	   <definition></definition>
     </card>
     <card>
-	   <term></term>
+	   <term>hostname</term>
 	   <definition></definition>
     </card>
     <card>
