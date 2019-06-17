@@ -213,14 +213,6 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <definition>A daemon process that starts during system boot and continues running until the system is shut down</definition>
     </card>
     <card>
-	   <term>shells</term>
-	   <definition></definition>
-    </card>
-    <card>
-	   <term>fonts</term>
-	   <definition></definition>
-    </card>
-    <card>
 	   <term>crontab</term>
 	   <definition>Opens cron table for editing</definition>
     </card>
@@ -240,4 +232,12 @@ Eventually, adding more elements to spin off to an xml file that can store multi
 	   <term></term>
 	   <definition></definition>
     </card>
+    <!-- <card>
+	   <term>shells</term>
+	   <definition></definition>
+    </card>
+    <card>
+	   <term>fonts</term>
+	   <definition></definition>
+    </card> -->
 </cards-base>
