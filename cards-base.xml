@@ -206,7 +206,7 @@ Eventually, adding more elements to spin off to an xml file that can store multi
     </card>
     <card>
 	   <term>ifconfig</term>
-	   <definition></definition>
+	   <definition>System administration tool to configure network interfaces</definition>
     </card>
     <card>
 	   <term>init</term>
