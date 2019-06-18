@@ -217,8 +217,8 @@ Eventually, adding more elements to spin off to an xml file that can store multi
 	   <definition>Opens cron table for editing</definition>
     </card>
     <card>
-	   <term>host</term>
-	   <definition></definition>
+        <term option="{name}">host</term>
+	   <definition>performs a DNS lookup</definition>
     </card>
     <card>
 	   <term>hostname</term>
