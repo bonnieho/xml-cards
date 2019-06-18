@@ -232,6 +232,10 @@ Eventually, adding more elements to spin off to an xml file that can store multi
 	   <term>dig</term>
 	   <definition>DNS lookup utility</definition>
     </card>
+    <card>
+        <term>nslookup</term>
+        <definition>Query a name server for information about a remote host</definition>
+    </card>
     <!-- <card>
 	   <term>shells</term>
 	   <definition></definition>
