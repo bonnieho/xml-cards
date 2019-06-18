@@ -217,7 +217,7 @@ Eventually, adding more elements to spin off to an xml file that can store multi
 	   <definition>Opens cron table for editing</definition>
     </card>
     <card>
-	   <term>hosts</term>
+	   <term>host</term>
 	   <definition></definition>
     </card>
     <card>
@@ -229,7 +229,7 @@ Eventually, adding more elements to spin off to an xml file that can store multi
 	   <definition></definition>
     </card>
     <card>
-	   <term></term>
+	   <term>dig</term>
 	   <definition></definition>
     </card>
     <!-- <card>
