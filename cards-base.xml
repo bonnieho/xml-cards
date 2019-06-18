@@ -226,7 +226,7 @@ Eventually, adding more elements to spin off to an xml file that can store multi
     </card>
     <card>
 	   <term>nano</term>
-	   <definition></definition>
+	   <definition>a GUI-based text editor</definition>
     </card>
     <card>
 	   <term>dig</term>
