@@ -222,7 +222,7 @@ Eventually, adding more elements to spin off to an xml file that can store multi
     </card>
     <card>
 	   <term>hostname</term>
-	   <definition></definition>
+	   <definition>displays a system's DNS name</definition>
     </card>
     <card>
 	   <term>nano</term>
