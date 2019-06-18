@@ -230,7 +230,7 @@ Eventually, adding more elements to spin off to an xml file that can store multi
     </card>
     <card>
 	   <term>dig</term>
-	   <definition></definition>
+	   <definition>DNS lookup utility</definition>
     </card>
     <!-- <card>
 	   <term>shells</term>
