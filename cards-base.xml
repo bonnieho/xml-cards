@@ -237,7 +237,7 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <definition>Query a name server for information about a remote host</definition>
     </card>
     <card>
-        <term></term>
+        <term>mkfs</term>
         <definition></definition>
     </card>
     <card>
