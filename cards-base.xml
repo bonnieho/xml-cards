@@ -246,7 +246,7 @@ Eventually, adding more elements to spin off to an xml file that can store multi
     </card>
     <card>
         <term option="-a">ls</term>
-        <definition></definition>
+        <definition>list ALL directories and files, including hidden</definition>
     </card>
     <card>
         <term option="-l">ls</term>
