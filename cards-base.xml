@@ -250,7 +250,7 @@ Eventually, adding more elements to spin off to an xml file that can store multi
     </card>
     <card>
         <term option="-l">ls</term>
-        <definition></definition>
+        <definition>list directories and files in LONG format</definition>
     </card>
     <!-- <card>
 	   <term>shells</term>
