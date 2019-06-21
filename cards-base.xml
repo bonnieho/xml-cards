@@ -249,6 +249,10 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <definition>list directories and files in LONG format</definition>
     </card>
     <card>
+        <term option="-F">ls</term>
+        <definition></definition>
+    </card>
+    <card>
         <term>finger</term>
         <definition></definition>
     </card>
