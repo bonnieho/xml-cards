@@ -238,7 +238,7 @@ Eventually, adding more elements to spin off to an xml file that can store multi
     </card>
     <card>
         <term>mkfs</term>
-        <definition></definition>
+        <definition>Used to create a filesystem on a formatted disk or device, usually a partition</definition>
     </card>
     <card>
         <term>swap</term>
