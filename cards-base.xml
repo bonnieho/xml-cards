@@ -241,10 +241,6 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <definition>Used to create a filesystem on a formatted disk or device, usually a partition</definition>
     </card>
     <card>
-        <term>swap</term>
-        <definition></definition>
-    </card>
-    <card>
         <term option="-a">ls</term>
         <definition>list ALL directories and files, including hidden</definition>
     </card>
@@ -267,5 +263,9 @@ Eventually, adding more elements to spin off to an xml file that can store multi
     <card>
 	   <term>fonts</term>
 	   <definition></definition>
+    </card> 
+    <card>
+        <term>swap</term>
+        <definition></definition>
     </card> -->
 </cards-base>
