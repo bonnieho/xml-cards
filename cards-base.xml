@@ -272,6 +272,10 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <term option="{string}">look</term>
         <definition>Display lines beginning with a given string</definition>
     </card>
+    <card>
+        <term>sync</term>
+        <definition>synchronize data on disk with memory</definition>
+    </card>
     <!-- <card>
 	   <term>shells</term>
 	   <definition></definition>
