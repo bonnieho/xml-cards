@@ -261,8 +261,8 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <definition>displays user's login name, real name, terminal name, write status, home directory, phone number, login shell, and mail status</definition>
     </card>
     <card>
-        <term></term>
-        <definition></definition>
+        <term>apachectl</term>
+        <definition>Apache HTTP Server Control Interface</definition>
     </card>
     <!-- <card>
 	   <term>shells</term>
