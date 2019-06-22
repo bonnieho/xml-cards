@@ -264,6 +264,10 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <term>apachectl</term>
         <definition>Apache HTTP Server Control Interface</definition>
     </card>
+    <card>
+        <term>ipurge</term>
+        <definition>Delete mail from IMAP mailbox or partition based on age or size</definition>
+    </card>
     <!-- <card>
 	   <term>shells</term>
 	   <definition></definition>
