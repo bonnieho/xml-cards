@@ -257,6 +257,10 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <definition>prints an entry for each user currently logged into a system</definition>
     </card>
     <card>
+        <term option="-l">finger</term>
+        <definition>displays user's login name, real name, terminal name, write status, home directory, phone number, login shell, and mail status</definition>
+    </card>
+    <card>
         <term></term>
         <definition></definition>
     </card>
