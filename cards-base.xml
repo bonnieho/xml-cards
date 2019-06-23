@@ -281,16 +281,16 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <definition>Make an alias for a specific command</definition>
     </card>
     <card>
-        <term></term>
-        <definition></definition>
-    </card>
-    <card>
-        <term></term>
-        <definition></definition>
+        <term option="{600{filespec}}">chmod</term>
+        <definition>User only can R+W (good for files)</definition>
     </card>
     <card>
         <term>spell</term>
         <definition>Display misspelled words</definition>
+    </card>
+    <card>
+        <term></term>
+        <definition></definition>
     </card>
     <!-- <card>
 	   <term>shells</term>
