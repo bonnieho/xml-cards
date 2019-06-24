@@ -312,6 +312,10 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <term option="-R{path}">ls</term>
         <definition>Displays recursive listing with all subdirs</definition>
     </card>
+    <card>
+        <term option="-r{dirname}">rm</term>
+        <definition>Remove all files and subdirs</definition>
+    </card>
     
     <!-- <card>
 	   <term>shells</term>
