@@ -300,8 +300,11 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <term option="{644{filespec}}">chmod</term>
         <definition>User can R+W, and everyone else can R (good for web pages)</definition>
     </card>
-    
-    
+    <card>
+        <term option="{755{filespec}}">chmod</term>
+        <definition>User can R+W+X, and everyone else can R+X (good for shared programs and public_html)</definition>
+    </card>
+   
     
     <!-- <card>
 	   <term>shells</term>
