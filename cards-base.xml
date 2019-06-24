@@ -289,8 +289,8 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <definition>Display misspelled words</definition>
     </card>
     <card>
-        <term></term>
-        <definition></definition>
+        <term option="{700{filespec}}">chmod</term>
+        <definition>User only can R+W+X (good for scripts)</definition>
     </card>
     <!-- <card>
 	   <term>shells</term>
