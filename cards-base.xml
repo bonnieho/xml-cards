@@ -292,6 +292,17 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <term option="{700{filespec}}">chmod</term>
         <definition>User only can R+W+X (good for scripts)</definition>
     </card>
+    <card>
+        <term option="{644{filespec}}">chmod</term>
+        <definition>User can R+W, and everyone else can R (good for web pages)</definition>
+    </card>
+    <card>
+        <term option="{644{filespec}}">chmod</term>
+        <definition>User can R+W, and everyone else can R (good for web pages)</definition>
+    </card>
+    
+    
+    
     <!-- <card>
 	   <term>shells</term>
 	   <definition></definition>
