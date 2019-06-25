@@ -336,6 +336,10 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <term option="{filespec}>{filename}">find</term>
         <definition>Redirect find list to a file</definition>
     </card>
+    <card>
+        <term option="{command}>{file}">(redirect)</term>
+        <definition>Redirect output to a file, eg ls > list.txt writes directory to file</definition>
+    </card>
     
     <!-- <card>
 	   <term>shells</term>
