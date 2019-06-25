@@ -332,6 +332,10 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <term option="{filename}">cat</term>
         <definition>Scrolling file view</definition>
     </card>
+    <card>
+        <term option="{filespec}>{filename}">find</term>
+        <definition>Redirect find list to a file</definition>
+    </card>
     
     <!-- <card>
 	   <term>shells</term>
