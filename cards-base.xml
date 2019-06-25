@@ -324,6 +324,10 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <term option="{~}">cd</term>
         <definition>Return directly to home directory</definition>
     </card>
+    <card>
+        <term option="{newfile}>>{oldfile}">cat</term>
+        <definition>Append newfile to end of oldfile</definition>
+    </card>
     
     <!-- <card>
 	   <term>shells</term>
