@@ -341,12 +341,8 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <definition>Redirect output to a file, eg ls > list.txt writes directory to file</definition>
     </card>
     <card>
-        <term></term>
-        <definition></definition>
-    </card>
-    <card>
-        <term></term>
-        <definition></definition>
+        <term option="{jobID or name of printer}">lprm</term>
+        <definition>Cancels current print job</definition>
     </card>
     <card>
         <term></term>
