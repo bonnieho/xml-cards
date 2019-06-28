@@ -349,7 +349,7 @@ Eventually, adding more elements to spin off to an xml file that can store multi
         <definition>Sort upper and lowercase together</definition>
     </card>
     <card>
-        <term></term>
+        <term option=""></term>
         <definition></definition>
     </card>
     <card>
